@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+h1 {
+  font-family: 'Henny Penny', cursive;
+  font-size:60px;
+color: #61dafb
+}
